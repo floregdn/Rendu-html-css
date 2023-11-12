@@ -1,0 +1,50 @@
+header{
+    align-items: center;
+    margin-bottom: 5%;
+    padding: 2%;
+    background-color: hotpink;
+}
+h1{
+    color: deepskyblue;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: deepskyblue;
+}
+body{
+    background-color: pink;
+}
+img{
+    width: 20%;
+}
+.div1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1%;
+}
+.div2{
+    display: flex;
+    justify-content: space-around;
+}
+.descriptions{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin-top: 5%;
+    background-color: hotpink;
+}
+.footer-copyright{
+    display: flex;
+    justify-content: center;
+    background-color: hotpink;
+}
+*{
+    margin: 0%;
+}

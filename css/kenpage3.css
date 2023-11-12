@@ -1,0 +1,73 @@
+header{
+    align-items: center;
+    margin-bottom: 3%;
+    padding: 2%;
+    background-color: hotpink;
+}
+h1{
+    color: deepskyblue;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: deepskyblue;
+}
+body{
+    background-color: pink;
+}
+img{
+    width: 20%
+}
+.div1{
+    display: flex;
+    justify-content: center;
+}
+.houseitems{
+    display: flex;
+    justify-content: space-around;
+}
+.housetitles{
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    display: flex;
+    justify-content: space-around;
+}
+.casapic{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin-top: 5%;
+    background-color: hotpink;
+}
+.footer-copyright{
+    display: flex;
+    justify-content: center;
+    background-color: hotpink;
+}
+*{
+    margin: 0%;
+}
+.clothes{
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.kenough-pitch{
+    padding: 3%;
+}
+.casapitch{
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+}
